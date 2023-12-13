@@ -1,4 +1,1 @@
-Sample to check commits
-SAMPLE 2
-
-Adding last chnage with messages
+New changes to sample.txt checking with commit messages
